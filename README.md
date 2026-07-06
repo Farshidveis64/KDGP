@@ -1,5 +1,4 @@
-# FastGLT: Fast Graph Lottery Tickets with Knowledge Distillation
-
+KDGP: Knowledge Distillation for GNN Pruning]{An Effective Knowledge Distillation Framework for Graph Neural Network Pruning
 Official code for the ACML 2026 submission *(under double-blind review)*.
 
 FastGLT finds sparse, trainable subnetworks of a graph neural network by
