@@ -137,6 +137,10 @@ Released under the MIT License; see [LICENSE](LICENSE).
 
 ## Citation
 
-> Anonymous Author(s). *FastGLT: Fast Graph Lottery Tickets with Knowledge
-> Distillation.* Under review at ACML 2026. A citation entry will be added upon
-> acceptance.
+If you find our work useful in your research, please cite:
+
+> *An Effective Knowledge Distillation Framework for Graph Neural
+> Network Pruning.* Accepted at the Asian Conference on Machine
+> Learning (ACML), 2026.
+
+The official BibTeX citation will be provided upon publication.
